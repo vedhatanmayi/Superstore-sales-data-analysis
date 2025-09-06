@@ -16,8 +16,8 @@ The dashboard highlights the top-level business metrics, providing an at-a-glanc
 ## Dashboard Features & Visualizations
 
 The dashboard comprises several visualizations to provide detailed insights into the sales data.
-![Dashboard-1](Dashboard/dashboard-1)
-![Dashboard-1](Dashboard/dashboard-2)
+![Dashboard-1](Dashboard/dashboard-1.png)
+![Dashboard-1](Dashboard/dashboard-2.png)
 
 ### Sales Breakdowns
 * **Sum of Sales by Segment**: A donut chart illustrating the sales contribution from different customer segments.
